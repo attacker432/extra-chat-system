@@ -34,7 +34,7 @@ const pmMessageColor = 13;
 const errorMessageColor = 12;
 const goodMessageColor = 11;
 var keys = [
-      process.env.dev_server_token,
+      "locket4321",
   process.env.token_level_2,
   process.env.token_level_1
   ]; 
